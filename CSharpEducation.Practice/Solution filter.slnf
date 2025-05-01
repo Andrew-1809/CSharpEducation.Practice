@@ -2,11 +2,15 @@
   "solution": {
     "path": "CSharpEducation.Practice.sln",
     "projects": [
-      "Task.CSharpBase\\Task1A.csproj",
-      "Task2\\Task2.csproj",
-      "Task3\\Task3.csproj",
-      "Task4\\Task4.csproj",
-      "Task5\\Task5.csproj"
+      "Practice2\\Practice2.Task1\\Practice2.Task1.csproj",
+      "Task.CSharpBase\\Practice1.Task1A.csproj",
+      "Task2\\Practice1.Task2.csproj",
+      "Task3\\Practice1.Task3.csproj",
+      "Task4\\Practice1.Task4.csproj",
+      "Task5\\Practice1.Task5.csproj",
+      "Task6\\Practice1.Task6.csproj",
+      "Task7\\Practice1.Task7a.csproj",
+      "Task7b\\Practice1.Task7b.csproj"
     ]
   }
 }

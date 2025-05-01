@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1.Task1A", "Task.CS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice1", "Practice1", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1.Task1B", "..\..\_Литература_\Task1B\Practice1.Task1B.csproj", "{747B286E-06CA-450A-810E-4C9796036B70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1.Task1B", "Task1B\Practice1.Task1B.csproj", "{747B286E-06CA-450A-810E-4C9796036B70}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1.Task2", "Task2\Practice1.Task2.csproj", "{142A347B-C199-42FE-9D6B-0EE393871B4F}"
 EndProject
