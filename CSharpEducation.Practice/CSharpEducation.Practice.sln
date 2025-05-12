@@ -35,6 +35,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task3", "Practice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task4", "Practice2.Task4\Practice2.Task4.csproj", "{6FDCA314-35A8-4360-B7CF-D6F1C21E2FAD}"
 EndProject
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task5", "Practice2.Task5\Practice2.Task5.csproj", "{66488545-E301-4A9A-9D8D-47E59810C2B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task6 a, b", "Practice2.Task6\Practice2.Task6 a, b.csproj", "{E8A171FF-49AA-4F43-A0D7-106B7CD71886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task6 c", "Practice2.Task6 c\Practice2.Task6 c.csproj", "{0B88AD77-2663-4E49-9129-0BDE16FC763E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task7", "Practice2.Task7\Practice2.Task7.csproj", "{60DF2266-2EFD-4A0F-BCC4-A62316763F01}"
+EndProject
 >>>>>>> Stashed changes
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +134,33 @@ Global
 		{6FDCA314-35A8-4360-B7CF-D6F1C21E2FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FDCA314-35A8-4360-B7CF-D6F1C21E2FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FDCA314-35A8-4360-B7CF-D6F1C21E2FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+		{66488545-E301-4A9A-9D8D-47E59810C2B6}.CheckIn|Any CPU.ActiveCfg = Release|Any CPU
+		{66488545-E301-4A9A-9D8D-47E59810C2B6}.CheckIn|Any CPU.Build.0 = Release|Any CPU
+		{66488545-E301-4A9A-9D8D-47E59810C2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66488545-E301-4A9A-9D8D-47E59810C2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66488545-E301-4A9A-9D8D-47E59810C2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66488545-E301-4A9A-9D8D-47E59810C2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886}.CheckIn|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886}.CheckIn|Any CPU.Build.0 = Release|Any CPU
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E}.CheckIn|Any CPU.ActiveCfg = Release|Any CPU
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E}.CheckIn|Any CPU.Build.0 = Release|Any CPU
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01}.CheckIn|Any CPU.ActiveCfg = Release|Any CPU
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01}.CheckIn|Any CPU.Build.0 = Release|Any CPU
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
@@ -144,6 +182,13 @@ Global
 =======
 		{132FC8DD-7497-4D0F-B370-B527963DDD7C} = {39986F16-2BDD-452F-AD66-ADAFFDCE7B85}
 		{6FDCA314-35A8-4360-B7CF-D6F1C21E2FAD} = {39986F16-2BDD-452F-AD66-ADAFFDCE7B85}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+		{66488545-E301-4A9A-9D8D-47E59810C2B6} = {39986F16-2BDD-452F-AD66-ADAFFDCE7B85}
+		{E8A171FF-49AA-4F43-A0D7-106B7CD71886} = {39986F16-2BDD-452F-AD66-ADAFFDCE7B85}
+		{0B88AD77-2663-4E49-9129-0BDE16FC763E} = {39986F16-2BDD-452F-AD66-ADAFFDCE7B85}
+		{60DF2266-2EFD-4A0F-BCC4-A62316763F01} = {39986F16-2BDD-452F-AD66-ADAFFDCE7B85}
 >>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
