@@ -35,9 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task4", "Practice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task5", "Practice2.Task5\Practice2.Task5.csproj", "{66488545-E301-4A9A-9D8D-47E59810C2B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task6 a, b", "Practice2.Task6\Practice2.Task6 a, b.csproj", "{7ECCAEAA-1B9E-DD30-968A-F935E0C6E91A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task6_a,b", "Practice2.Task6\Practice2.Task6_a,b.csproj", "{7ECCAEAA-1B9E-DD30-968A-F935E0C6E91A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task6 c", "Practice2.Task6 c\Practice2.Task6 c.csproj", "{A47F142E-31B4-D5EF-4835-8504FB0541D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task6_c", "Practice2.Task6 c\Practice2.Task6_c.csproj", "{A47F142E-31B4-D5EF-4835-8504FB0541D5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2.Task7", "Practice2.Task7\Practice2.Task7.csproj", "{892B704A-828F-1D41-555F-33C407EE20C8}"
 EndProject

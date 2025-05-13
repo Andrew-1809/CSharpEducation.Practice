@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Metrics;
 
 namespace Practice2.Task6_c
 {
@@ -6,14 +7,10 @@ namespace Practice2.Task6_c
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(args.Length);
-            Console.Write("Введите любую фразу: ");                           //6c
-
-            string s = Console.ReadLine();
+            string s = args[0];                         //6c
             char[] string1 = s.ToCharArray();
 
-            Console.Write("Введите необходимый символ: ");
-            char z = Convert.ToChar(Console.ReadLine());
+            char z = Convert.ToChar(args[1]);
 
             int count1 = 0;
             int count2 = string1.Length;
@@ -28,6 +25,7 @@ namespace Practice2.Task6_c
             }
 
             Console.WriteLine("Число символов " + "'" + z + "'" + " в строке - " + count1 * 100 / count2 + "%");
+
         }
     }
 }
