@@ -1,10 +1,13 @@
-﻿namespace Practice3.Task1
+﻿using System;
+
+namespace Practice3.Task1
 {
     internal class Program
-    {
-        static void Main(string[] args)
+    {                     
+    static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
         }
+           
     }
 }
