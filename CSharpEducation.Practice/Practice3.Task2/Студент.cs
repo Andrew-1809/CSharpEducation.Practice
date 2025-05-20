@@ -13,7 +13,7 @@ namespace Practice3.Task2
         public int age = 31;
 
         int ср_балл;
-        string error = "Средний балл должен быть от 0 до 5";
+        
         public int Средний_балл
         {            
             set
